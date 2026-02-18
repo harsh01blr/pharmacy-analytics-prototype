@@ -9,16 +9,11 @@ A lightweight, data‑driven dashboard that visualizes pharmacy sales and invent
 - Auto‑generated interactive dashboard (HTML)
 
 ## How to Run
-Run the script: 
-\`\`\`
-python app.py
-\`\`\`
+Run the script: python app.py
 
-This generates:
 
-\`\`\`
-docs/index.html
-\`\`\`
+This generates: docs/index.html
+
 
 which can be published via GitHub Pages.
 
