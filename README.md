@@ -25,3 +25,6 @@ which can be published via GitHub Pages.
 
 ## Status
 Prototype for demonstrating data storytelling and dashboard design.
+
+## Demo Link
+https://harsh01blr.github.io/pharmacy-analytics-prototype/
