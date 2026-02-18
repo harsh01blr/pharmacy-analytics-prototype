@@ -1,6 +1,6 @@
 # Pharmacy Analytics Prototype
 
-A lightweight, data‑driven dashboard that visualizes pharmacy sales and inventory trends using Python, Pandas, and Plotly.
+This project analyzes pharmacy sales and inventory data to highlight top‑selling medicines, revenue drivers, and low‑stock risks. It includes an interactive dashboard built with Plotly and a simple workflow for generating insights and publishing them via GitHub Pages.
 
 ## Features
 - Top‑selling medicines (Units Sold)
